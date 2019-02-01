@@ -12,6 +12,5 @@
       <entry name="!?*.clj" />
       <entry name="?*.groovy" />
     </wildcardResourcePatterns>
-    <bytecodeTargetLevel target="10" />
   </component>
 </project>
