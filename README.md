@@ -1,2 +1,2 @@
 # javaLambdaPlayground
-with my solutions for LambdaHOLv2
+# lamdba-playground
